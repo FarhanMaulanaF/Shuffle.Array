@@ -1,0 +1,203 @@
+[
+  {
+    "instansi": "SMP Negeri 19 Surabaya",
+    "tim": ["Alpha 3", "Alpha 1", "Alpha 4"]
+  },
+  {
+    "instansi": "SMA Negeri 5 Surabaya",
+    "tim": ["BURAQ"]
+  },
+  {
+    "instansi": "SMA Telkom Bandung",
+    "tim": ["ESSENTIALS"]
+  },
+  {
+    "instansi": "Universitas Muhammadiyah Surakarta",
+    "tim": [
+      "7Sky RR",
+      "RR Vendeta",
+      "RR Asinonyx'J",
+      "RR Baruna HD",
+      "RR Kenzzz",
+      "RR Madu Hitam"
+    ]
+  },
+  {
+    "instansi": "Robot Research",
+    "tim": ["RR LIQUID"]
+  },
+  {
+    "instansi": "SMA Negeri 1 Sooko Mojokerto",
+    "tim": ["XAMN"]
+  },
+  {
+    "instansi": "SMP Muhammadiyah Ahmad Dahlan Metro Lampung",
+    "tim": ["Madtic"]
+  },
+  {
+    "instansi": "SMK Negeri 1 Purworejo",
+    "tim": ["ROBOTIKA SMEKZA 2", "ROBOTIKA SMEKZA 1"]
+  },
+  {
+    "instansi": "SMP Negeri 6 Surabaya",
+    "tim": ["MOAI PRIME", "X3", "AIRobo 2"]
+  },
+  {
+    "instansi": "MA Negeri 2 Kota Probolinggo",
+    "tim": ["TEKAD PRO1", "MTR CEPLOK"]
+  },
+  {
+    "instansi": "Universitas Brawijaya",
+    "tim": ["hello world", "KOVALEN"]
+  },
+  {
+    "instansi": "Politeknik Negeri Jakarta",
+    "tim": ["FRAGILE TY!", "Psybot- Ager Ager"]
+  },
+  {
+    "instansi": "ZRF",
+    "tim": ["Ex-Los"]
+  },
+  {
+    "instansi": "Universitas PGRI Kanjuruhan Malang",
+    "tim": ["Solo leveling", "The Trilogy", "RF.XELERON", "RFanyaa"]
+  },
+  {
+    "instansi": "SMK Ananda Mitra Industri Deltamas",
+    "tim": ["Delta Force 0"]
+  },
+  {
+    "instansi": "Universitas Gadjah Mada",
+    "tim": ["Repsol Honda", "Mandiri", "H8"]
+  },
+  {
+    "instansi": "Politeknik Negeri Malang",
+    "tim": ["EEPROM_HRD", "EEPROM_ALPHA", "EEPROM_ZENER"]
+  },
+  {
+    "instansi": "SMP Citra Insan Mulia",
+    "tim": ["CIM_Follower"]
+  },
+  {
+    "instansi": "Universitas Amikom Yogyakarta",
+    "tim": ["Meong"]
+  },
+  {
+    "instansi": "MA Negeri 1 Pasuruan",
+    "tim": [
+      "RAMPAS DOA IBU",
+      "Rampas Srikandi",
+      "RAMPAS THREE ANGEL",
+      "RAMPAS HIGH MEKANIK",
+      "RAMPASDOAIBU"
+    ]
+  },
+  {
+    "instansi": "Politeknik Kelautan dan Perikanan Pangandaran",
+    "tim": ["MANTA"]
+  },
+  {
+    "instansi": "Universitas Pertamina",
+    "tim": ["Kyai Maja"]
+  },
+  {
+    "instansi": "Universitas Sumatra Utara",
+    "tim": ["Thoriq Team"]
+  },
+  {
+    "instansi": "SDN 261 MARGAHAYU RAYA",
+    "tim": ["Cleverone"]
+  },
+  {
+    "instansi": "Politeknik Negeri Ujung Pandang",
+    "tim": ["FASTFURIOUS", "Trilog"]
+  },
+  {
+    "instansi": "SMA Negeri 1 Purworejo",
+    "tim": ["Gm - Hura-chan", "GM- GRIFFIN", "GM-Toto Fams"]
+  },
+  {
+    "instansi": "SMA Negeri 8 Jakarta",
+    "tim": ["ElDi 8"]
+  },
+  {
+    "instansi": "Politeknik Negeri Semarang",
+    "tim": ["AITOORO"]
+  },
+  {
+    "instansi": "SMK Negeri 2 Depok Sleman",
+    "tim": ["PRIDE"]
+  },
+  {
+    "instansi": "SMA Muhammadiyah Ahmad Dahlan Metro Lampung",
+    "tim": ["MADRO"]
+  },
+  {
+    "instansi": "Universitas Ahmad Dahlan",
+    "tim": ["ALIF - 1", "ALIF - 2", "RDC UAD 1", "RDC UAD 2"]
+  },
+  {
+    "instansi": "SMK N 2 Klaten",
+    "tim": ["ZzR Lam"]
+  },
+  {
+    "instansi": "SMA Negeri 1 Gresik",
+    "tim": ["ES TEH JUMBO LF"]
+  },
+  {
+    "instansi": "Universitas Amikom Purwokerto",
+    "tim": ["Team Embedded-FA"]
+  },
+  {
+    "instansi": "SMA Muhammadiyah Boarding School Bengkulu",
+    "tim": ["MAMEX TEAM", "TEGESUR TEAM"]
+  },
+  {
+    "instansi": "Umum",
+    "tim": ["Dae-Ho Robo"]
+  },
+  {
+    "instansi": "SD Muhammadiyah 4 Surabaya",
+    "tim": ["MUDIPAT ALFA"]
+  },
+  {
+    "instansi": "Universitas Mulawarman",
+    "tim": ["D403-Line"]
+  },
+  {
+    "instansi": "Universitas Udayana",
+    "tim": ["SOSMAY", "Sayang Mamak", "InitialD", "Pakman Berprestasi"]
+  },
+  {
+    "instansi": "SMP Negeri 1 Surabaya",
+    "tim": ["Java Robo"]
+  },
+  {
+    "instansi": "Universitas Negeri Jakarta",
+    "tim": ["Clavus-JNU", "Callus-JNU"]
+  },
+  {
+    "instansi": "SMA Muhammadiyah 2 Sidoarjo",
+    "tim": "REKTO14 SMAMDA"
+  },
+  {
+    "instansi": "Universitas Muhammadiyah Ponorogo",
+    "tim": ["ERCOMP Ganong", "ERCOMP Reog"]
+  },
+  {
+    "instansi": "Universitas Hasanuddin",
+    "tim": ["Regulus", "CRUISER", "RMRG09"]
+  },
+  {
+    "instansi": "SMA Kristen Barana",
+    "tim": ["Xenonite"]
+  },
+  {
+    "instansi": "Politeknik Caltex Riau",
+    "tim": ["Kazoku 22"]
+  },
+  {
+    "instansi": "Universitas Diponegoro",
+    "tim": ["Gatotkaca"]
+  }
+]
